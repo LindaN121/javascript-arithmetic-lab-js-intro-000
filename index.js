@@ -1,4 +1,5 @@
 var a = 5
-var b = 10
 
-function add()
+function add5(){
+  number +=5
+}
