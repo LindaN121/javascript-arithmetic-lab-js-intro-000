@@ -1,4 +1,4 @@
-var a = 5
+var a = Math.floor(Math.random() * 1000)
 var b = 10
 
 function add(){
